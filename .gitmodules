@@ -25,3 +25,6 @@
 [submodule "game_on_pygame/soul-v0"]
 	path = game_on_pygame/soul-v0
 	url = https://github.com/pupach/soul-v0.git
+[submodule "DataScienceProject/Neuroset"]
+	path = DataScienceProject/Neuroset
+	url = https://github.com/pupach/Neuroset.git
