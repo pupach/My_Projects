@@ -4,3 +4,12 @@
 [submodule "Processor_dedinski/Processor_and_all"]
 	path = Processor_dedinski/Processor_and_all
 	url = https://github.com/pupach/Processor_and_all.git
+[submodule "List_dedinskey/list"]
+	path = List_dedinskey/list
+	url = https://github.com/pupach/list.git
+[submodule "Akinator_dedinskiy/tree"]
+	path = Akinator_dedinskiy/tree
+	url = https://github.com/pupach/tree.git
+[submodule "Dedinskiy/diff_tree/diff_tree"]
+	path = Dedinskiy/diff_tree/diff_tree
+	url = https://github.com/pupach/diff_tree.git
