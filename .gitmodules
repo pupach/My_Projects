@@ -28,3 +28,6 @@
 [submodule "DataScienceProject/Neuroset"]
 	path = DataScienceProject/Neuroset
 	url = https://github.com/pupach/Neuroset.git
+[submodule "CPlusPlusProject/cs_cpp_jr.projekctor_2024-2025"]
+	path = CPlusPlusProject/cs_cpp_jr.projekctor_2024-2025
+	url = https://gitlab.com/Oadalsaesa/cs_cpp_jr.projekctor_2024-2025.git
