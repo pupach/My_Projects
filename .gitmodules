@@ -16,3 +16,9 @@
 [submodule "Dedinskiy/Dedinskiy"]
 	path = Dedinskiy/Dedinskiy
 	url = https://github.com/pupach/Dedinskiy.git
+[submodule "GraphAlgoLab/lab_hash"]
+	path = GraphAlgoLab/lab_hash
+	url = https://github.com/pupach/lab_hash.git
+[submodule "GraphAlgoLab/lab_tree"]
+	path = GraphAlgoLab/lab_tree
+	url = https://github.com/pupach/lab_tree.git
