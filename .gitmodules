@@ -22,3 +22,6 @@
 [submodule "GraphAlgoLab/lab_tree"]
 	path = GraphAlgoLab/lab_tree
 	url = https://github.com/pupach/lab_tree.git
+[submodule "game_on_pygame/soul-v0"]
+	path = game_on_pygame/soul-v0
+	url = https://github.com/pupach/soul-v0.git
