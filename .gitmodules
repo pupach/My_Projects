@@ -13,3 +13,6 @@
 [submodule "Dedinskiy/diff_tree/diff_tree"]
 	path = Dedinskiy/diff_tree/diff_tree
 	url = https://github.com/pupach/diff_tree.git
+[submodule "Dedinskiy/Dedinskiy"]
+	path = Dedinskiy/Dedinskiy
+	url = https://github.com/pupach/Dedinskiy.git
