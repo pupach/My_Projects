@@ -1,3 +1,6 @@
 [submodule "Boost_Graph/GraphAlko"]
 	path = Boost_Graph/GraphAlko
 	url = https://github.com/pupach/GraphAlko.git
+[submodule "Processor_dedinski/Processor_and_all"]
+	path = Processor_dedinski/Processor_and_all
+	url = https://github.com/pupach/Processor_and_all.git
